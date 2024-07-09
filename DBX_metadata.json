@@ -1,0 +1,9 @@
+{
+  "name": "DIGIBOLIX",
+  "symbol": "DBX",
+  "description": "DIGIBOLIX",
+  "extensions": {
+    "website": "https://www.digibolix.com"
+  },
+  "image": "https://raw.githubusercontent.com/Bi9Snail/DIGIBOLIX/main/digibolix_logo.png"
+}
